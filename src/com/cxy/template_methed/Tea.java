@@ -9,7 +9,7 @@ public class Tea extends CaffeineBeverage{
 
 	@Override
 	void brew() {
-		System.out.println("steep tea bag");
+		System.out.println("steep tea bag!");
 	}
 
 }
